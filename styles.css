@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.head{
+	background-color:black;
+	color:white;
+}
+.main{
+	background-color:rgb(135, 206, 235) ;
+}
+.red{
+	color:red;
+}
+.first{
+	background:white;
+	width:300px;
+	height:20px;
+}
+.thi{
+	background:pink;
+	width:300px;
+	height:20px;
+}
+.fif{
+	background:white;
+	width:300px;
+	height:20px;
+}
+.list{
+	background-color:gray;
+	width:340px;
+}
