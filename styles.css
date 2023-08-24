@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.head{
+/* .head{
 	background-color:black;
 	color:white;
 }
@@ -27,4 +27,27 @@
 .list{
 	background-color:gray;
 	width:340px;
+} */
+*{
+    background-color: rgb(135, 206, 235);
+}
+li{
+    background-color: gray;
+    width: 50p;
+    padding: 10px;
+    border: 2px ;
+    
+}
+.third{
+    background-color: pink;
+}
+.first,.five{
+    font-size: 22px;
+    background-color: white;
+}
+.last-child{
+	color:red;
+}
+.first-child{
+	color:white;
 }
